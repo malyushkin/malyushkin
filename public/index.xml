@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Роман Малюшкин</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Роман Малюшкин</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 28 Jan 2021 23:13:58 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Новый Pixel Бандеролькой</title>
+      <link>http://example.org/posts/pixel-from-usa/</link>
+      <pubDate>Thu, 28 Jan 2021 23:13:58 +0300</pubDate>
+      
+      <guid>http://example.org/posts/pixel-from-usa/</guid>
+      <description>Я пользуюсь смартфоном на базе ОС Android. Два года назад познакомился с семейством Google Pixel, купил себе старшую версию 2 XL, заценил производительность, восхитился камерой и решил — моё. С телефоном, то есть с камерой мы объездили несколько городов и стран (в доковидные времена). Благодаря ему и акции щедрости Google в виде безлимтного облачного хранилища медиа я привёз несколько тысяч снимков, многие из которых так и остались в глубинах этого облака.</description>
+    </item>
+    
+    <item>
+      <title>Скромный 2019</title>
+      <link>http://example.org/posts/modest-2019/</link>
+      <pubDate>Sat, 28 Dec 2019 22:25:53 +0300</pubDate>
+      
+      <guid>http://example.org/posts/modest-2019/</guid>
+      <description>Это уже моя 5-я попытка завести полноценный, не тематический бло, такой, где я смогу делиться любыми наблюдениями, прежде всего для будущего себя и для дорогого читателя. Здравствуй!
+30 декабря — конец 2019 года и целого десятилетия, время очередного подведения итогов. Корпорации, например, делают так: Google, Twitter, Яндекс. На их фоне (да и без него) подведение личных итогов кажется каким-то неуместным и сумбурным. Однако, в нескольких постах я попробую изложить основные мысли, которые хочется оставить именно в свободном формате блога.</description>
+    </item>
+    
+  </channel>
+</rss>
