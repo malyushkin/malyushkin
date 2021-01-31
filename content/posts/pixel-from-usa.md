@@ -1,7 +1,7 @@
 ---
 title: "Новый Pixel Бандеролькой"
 date: 2021-01-28T23:13:58+03:00
-draft: false
+draft: true
 tags: ["gadgets"]
 categories: ["Techno"]
 ---
