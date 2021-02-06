@@ -3,26 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.malyushkin.ru/posts/</loc>
-    <lastmod>2019-12-28T22:25:53+03:00</lastmod>
+    <loc>https://malyushkin.ru/categories/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.malyushkin.ru/</loc>
-    <lastmod>2019-12-28T22:25:53+03:00</lastmod>
+    <loc>https://malyushkin.ru/tags/gadgets/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.malyushkin.ru/posts/modest-2019/</loc>
-    <lastmod>2019-12-28T22:25:53+03:00</lastmod>
+    <loc>https://malyushkin.ru/posts/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.malyushkin.ru/categories/</loc>
+    <loc>https://malyushkin.ru/tags/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.malyushkin.ru/tags/</loc>
+    <loc>https://malyushkin.ru/categories/techno/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://malyushkin.ru/posts/pixel-from-usa/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://malyushkin.ru/</loc>
+    <lastmod>2021-01-28T23:13:58+03:00</lastmod>
   </url>
   
 </urlset>

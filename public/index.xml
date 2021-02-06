@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Роман Малюшкин</title>
-    <link>https://www.malyushkin.ru/</link>
+    <link>https://malyushkin.ru/</link>
     <description>Recent content on Роман Малюшкин</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <lastBuildDate>Sat, 28 Dec 2019 22:25:53 +0300</lastBuildDate><atom:link href="https://www.malyushkin.ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 23:13:58 +0300</lastBuildDate><atom:link href="https://malyushkin.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Скромный 2019</title>
-      <link>https://www.malyushkin.ru/posts/modest-2019/</link>
-      <pubDate>Sat, 28 Dec 2019 22:25:53 +0300</pubDate>
+      <title>Новый Pixel Бандеролькой</title>
+      <link>https://malyushkin.ru/posts/pixel-from-usa/</link>
+      <pubDate>Thu, 28 Jan 2021 23:13:58 +0300</pubDate>
       
-      <guid>https://www.malyushkin.ru/posts/modest-2019/</guid>
-      <description>Это уже моя 5-я попытка завести полноценный, не тематический бло, такой, где я смогу делиться любыми наблюдениями, прежде всего для будущего себя и для дорогого читателя. Здравствуй!
-30 декабря — конец 2019 года и целого десятилетия, время очередного подведения итогов. Корпорации, например, делают так: Google, Twitter, Яндекс. На их фоне (да и без него) подведение личных итогов кажется каким-то неуместным и сумбурным. Однако, в нескольких постах я попробую изложить основные мысли, которые хочется оставить именно в свободном формате блога.</description>
+      <guid>https://malyushkin.ru/posts/pixel-from-usa/</guid>
+      <description>Я андройщик. Два года назад я познакомился с семейством устройств Google Pixel: взял себе старшую версию 2 XL, оценил производительность, восхитился камерой и решил — моё. С телефоном мы объездили несколько городов и даже стран в доковидные времена. Благодаря щедрости Google в виде безлимтного облачного фотохранилища я привёз несколько тысяч снимков, многие из которых так и остались в глубинах этого облака.
+За это время телефон постарел и я решил обновиться, как раз на рынок вышли две новые модели 4a 5G и 5.</description>
     </item>
     
   </channel>
